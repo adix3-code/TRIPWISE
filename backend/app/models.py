@@ -9,4 +9,4 @@ class Trip(Base):
     budget = Column(Integer)
     duration_days = Column(Integer)
     interests = Column(String)
-    generated_itinerary = Column(Text, nullable=True)
+    generated_itinerary = Column(Text) # Stores the big JSON blob
