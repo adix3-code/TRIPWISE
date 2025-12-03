@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 # 1. SETUP
 # load_dotenv() 
 # 👇 PASTE YOUR ACTUAL API KEY INSIDE THESE QUOTES
-KEY = "AIzaSyCRJ8NOra5bfFhxVJDEEFTcaXGG8o1Z0po" 
+KEY = "AIzaSyDsmMA_ZTkC-sn_UHg9ayksHxLuSc--WZY" 
 
 genai.configure(api_key=KEY)
 
