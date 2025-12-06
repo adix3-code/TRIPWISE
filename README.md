@@ -2,8 +2,6 @@
 
 TripWise is a next-generation travel planning application that uses Artificial Intelligence to generate personalized, budget-conscious travel itineraries in seconds. Unlike traditional booking sites, TripWise acts as a smart travel agent, creating a complete day-by-day plan, estimating costs, and visualizing the journey with high-quality real-world images and maps.
 
-(Replace this with a screenshot of your landing page)
-
 🚀 Key Features
 
 🧠 AI-Powered Planning: Uses Google Gemini AI to generate logical, personalized day-by-day itineraries based on your interests.
